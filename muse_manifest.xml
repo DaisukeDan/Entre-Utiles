@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536078623237">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536079654743">
   <folder name="css">
     <file name="site_global.css" crc="260519739"/>
     <file name="master_men_---footer.css" crc="176898076" ref="index"/>
     <file name="nomq_preview_master_men_---footer.css" crc="260323574" ref="index"/>
-    <file name="index.css" crc="4086040838" ref="index"/>
-    <file name="nomq_index.css" crc="4290821046" ref="index"/>
+    <file name="index.css" crc="121239414" ref="index"/>
+    <file name="nomq_index.css" crc="176020227" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="fondo.jpg" crc="3966133743" seo="true" mt="1536000480000"/>
@@ -14,6 +14,7 @@
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
@@ -21,7 +22,6 @@
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u37027.php" crc="281600343" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
@@ -29,6 +29,18 @@
   </folder>
   <folder name="images">
     <file name="menú---footer-favicon.ico" crc="3915330018" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="entre_utiles_logo.svg" crc="3890671469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entre_utiles_logo_poster_.png" crc="4035729105" ref="index"/>
     <file name="logo-sin-fondo.svg" crc="137963170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -77,18 +89,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="entre_utiles_logo.svg" crc="3890671469" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="entre_utiles_logo_poster_.png" crc="4035729105" ref="index"/>
     <file name="icon-menu.svg" crc="39803141" ref="index"/>
     <file name="icon-menu_poster_u2065.png" crc="507061211" ref="index"/>
     <file name="icon-cerrar.svg" crc="3979695559" ref="index"/>
@@ -108,5 +108,5 @@
     <file name="2-u37545-fr4.jpg" crc="344141177" ref="index"/>
     <file name="3-u37515-fr4.jpg" crc="3960676439" ref="index"/>
   </folder>
-  <file name="index.html" crc="4155834424" seo="true" mt="1536078562380" redirect="true"/>
+  <file name="index.html" crc="252578034" seo="true" mt="1536079545782" redirect="true"/>
 </manifest>
