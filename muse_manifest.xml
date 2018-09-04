@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536076945098">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536078030820">
   <folder name="css">
     <file name="site_global.css" crc="260519739"/>
-    <file name="master_men_---footer.css" crc="303614403" ref="index"/>
+    <file name="master_men_---footer.css" crc="176898076" ref="index"/>
     <file name="nomq_preview_master_men_---footer.css" crc="260323574" ref="index"/>
-    <file name="index.css" crc="179517625" ref="index"/>
-    <file name="nomq_index.css" crc="69417496" ref="index"/>
+    <file name="index.css" crc="4077076181" ref="index"/>
+    <file name="nomq_index.css" crc="4212099490" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="fondo.jpg" crc="3966133743" seo="true" mt="1536000480000"/>
@@ -30,6 +30,8 @@
   <folder name="images">
     <file name="menú---footer-favicon.ico" crc="3915330018" ref="index"/>
     <file name="logo-sin-fondo.svg" crc="137963170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -83,6 +85,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="entre_utiles_logo_poster_.png" crc="4035729105" ref="index"/>
     <file name="icon-menu.svg" crc="39803141" ref="index"/>
@@ -94,9 +98,15 @@
     <file name="3-u37515-fr.jpg" crc="4103523442" ref="index"/>
     <file name="26167644_1771913382828162_8426776856261833659_n-u426-fr.jpg" crc="3796073668" ref="index"/>
     <file name="26167644_1771913382828162_8426776856261833659_n-u426-fr2.jpg" crc="509060571" ref="index"/>
-    <file name="1-u37493-fr2.jpg" crc="3869729334" ref="index"/>
-    <file name="2-u37545-fr2.jpg" crc="344141177" ref="index"/>
-    <file name="3-u37515-fr2.jpg" crc="3960676439" ref="index"/>
+    <file name="1-u37493-fr2.jpg" crc="4177729188" ref="index"/>
+    <file name="2-u37545-fr2.jpg" crc="4243077059" ref="index"/>
+    <file name="3-u37515-fr2.jpg" crc="377463455" ref="index"/>
+    <file name="1-u37493-fr3.jpg" crc="3935132911" ref="index"/>
+    <file name="2-u37545-fr3.jpg" crc="203203255" ref="index"/>
+    <file name="3-u37515-fr3.jpg" crc="274242872" ref="index"/>
+    <file name="1-u37493-fr4.jpg" crc="3869729334" ref="index"/>
+    <file name="2-u37545-fr4.jpg" crc="344141177" ref="index"/>
+    <file name="3-u37515-fr4.jpg" crc="3960676439" ref="index"/>
   </folder>
-  <file name="index.html" crc="3815770018" seo="true" mt="1536076903529" redirect="true"/>
+  <file name="index.html" crc="49785028" seo="true" mt="1536077989042" redirect="true"/>
 </manifest>
