@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536078030820">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.ovmuse.com/ov-creativo" resolutions="1x" timestamp="1536078623237">
   <folder name="css">
     <file name="site_global.css" crc="260519739"/>
     <file name="master_men_---footer.css" crc="176898076" ref="index"/>
     <file name="nomq_preview_master_men_---footer.css" crc="260323574" ref="index"/>
-    <file name="index.css" crc="4077076181" ref="index"/>
-    <file name="nomq_index.css" crc="4212099490" ref="index"/>
+    <file name="index.css" crc="4086040838" ref="index"/>
+    <file name="nomq_index.css" crc="4290821046" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="fondo.jpg" crc="3966133743" seo="true" mt="1536000480000"/>
@@ -108,5 +108,5 @@
     <file name="2-u37545-fr4.jpg" crc="344141177" ref="index"/>
     <file name="3-u37515-fr4.jpg" crc="3960676439" ref="index"/>
   </folder>
-  <file name="index.html" crc="49785028" seo="true" mt="1536077989042" redirect="true"/>
+  <file name="index.html" crc="4155834424" seo="true" mt="1536078562380" redirect="true"/>
 </manifest>
